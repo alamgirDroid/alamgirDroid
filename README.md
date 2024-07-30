@@ -11,7 +11,7 @@ Skills:  JS / HTML / CSS/BOOTSTRAP/TAILWIND CSS
 - 🔭 I’m currently working on Youtube 
 - 🌱 I’m currently learning MERN 
 - 👯 I’m looking to collaborate on GitHub 
-
+<div class="w-1/2 flex justify-center items-center text-xxs sm:text-lg py-4 pr-2 sm:pr-0"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" class="w-6 h-6 sm:w-8 sm:h-8 mr-1 sm:mr-4" alt="linkedin"><input id="linkedin" placeholder="linkedin username" class="outline-none placeholder-gray-700 w-32 sm:w-1/2 border-t-0 border-l-0 border-r-0 border solid border-gray-900 py-1 px-2 focus:border-blue-700" value="alamgir hossen"></div>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alamgirDroid)  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>
 
