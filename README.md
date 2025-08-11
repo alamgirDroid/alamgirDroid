@@ -1,10 +1,10 @@
-![Web Developer](https://media.licdn.com/dms/image/D5603AQGR6YDbHVeSPw/profile-displayphoto-shrink_800_800/0/1719467065873?e=1727913600&v=beta&t=_IFX-cOgjtRnTg18RdgtTqX3Gby5XfJK_xVMs7WLS5k)
+![Data Scientist & AI Engineer](https://media.licdn.com/dms/image/D5603AQGR6YDbHVeSPw/profile-displayphoto-shrink_800_800/0/1719467065873?e=1727913600&v=beta&t=_IFX-cOgjtRnTg18RdgtTqX3Gby5XfJK_xVMs7WLS5k)
 
 ### Hi there 👋, I'm Alamgir Hossen
-#### Web Developer
+#### Data Scientist || Generative AI Engineer || ML & AI Specialist
 
 
-I'm a MERN Web developer who is passionate about makin error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with MERN but some technologies I enjoy working.
+I’m a passionate Generative AI and Machine Learning Engineer with hands-on experience in building intelligent systems using Python, deep learning, and data science tools. I enjoy solving real-world problems through AI, especially in NLP, computer vision, and generative modeling.
 
 Skills:  JS / HTML / CSS/BOOTSTRAP/TAILWIND CSS
 
