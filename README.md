@@ -6,8 +6,7 @@
 
 I’m a passionate Generative AI and Machine Learning Engineer with hands-on experience in building intelligent systems using Python, deep learning, and data science tools. I enjoy solving real-world problems through AI, especially in NLP, computer vision, and generative modeling.
 
-Skills:  JS / HTML / CSS/BOOTSTRAP/TAILWIND CSS
-
+Skills: 
 - Languages & Tools: Python, SQL, Bash, Git, Javascript, Jupyter, VS Code, REST API
 - Libraries & Frameworks: Scikit-learn, TensorFlow, PyTorch, Keras, OpenCV, XGBoost, LightGBM, Pandas
 - Data Visualization: Tableau, Power BI, Seaborn, Matplotlib, Plotly
