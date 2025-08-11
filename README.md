@@ -8,9 +8,15 @@ I’m a passionate Generative AI and Machine Learning Engineer with hands-on exp
 
 Skills:  JS / HTML / CSS/BOOTSTRAP/TAILWIND CSS
 
-- 🔭 I’m currently working on Youtube 
-- 🌱 I’m currently learning MERN 
-- 👯 I’m looking to collaborate on GitHub 
+- Languages & Tools: Python, SQL, Bash, Git, Javascript, Jupyter, VS Code, REST API
+- Libraries & Frameworks: Scikit-learn, TensorFlow, PyTorch, Keras, OpenCV, XGBoost, LightGBM, Pandas
+- Data Visualization: Tableau, Power BI, Seaborn, Matplotlib, Plotly
+- ML & AI Concepts: Supervised & Unsupervised Learning, Regression, Classification, Clustering, Time Series, NLP, Deep
+  Learning, Transfer Learning, Model Evaluation
+- Generative AI & LLMs: GPT-4, LangChain, Hugging Face Transformers, RAG, Prompt Engineering, Tokenization, Fine-tuning,
+  Embeddings, Pinecone, FAISS
+- Cloud & MLOps: AWS (S3, SageMaker), GCP, Azure, CI/CD
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alamgirDroid)  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>
 
